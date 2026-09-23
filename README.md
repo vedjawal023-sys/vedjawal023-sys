@@ -1,16 +1,31 @@
-## Hi there 👋
+ # hey. 👋
 
-<!--
-**vedjawal023-sys/vedjawal023-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I write code and occasionally have good ideas.
 
-Here are some ideas to get you started:
+`C` · `Python` · `JavaScript` · `Linux` · `Git`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### currently
+
+~~~text
+building  → things
+learning  → more things
+fixing    → things I built
+~~~
+
+### interests
+
+software · linux · web · open source · keyboards · making things unnecessarily clean
+
+### status
+
+`shipping > talking`
+
+### fun fact
+
+I have absolutely automated something that would've taken 12 seconds manually.
+
+### links
+
+[github] · [website] · [contact]
+
+<sub>⚡ powered by curiosity and suspicious amounts of caffeine</sub>
